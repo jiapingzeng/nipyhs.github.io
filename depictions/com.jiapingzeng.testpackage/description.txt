@@ -1,0 +1,14 @@
+{
+    "packageId": "com.jiapingzeng.testpackage",
+    "name": "Test package",
+    "developer": "jiapingzeng",
+    "twitter": "jiapingzeng",
+    "developerSite": "https://github.com/jiapingzeng",
+    "description": [
+        "test tweak"
+    ],
+    "changelog": [
+        "0.0.1", "hope this works"
+    ],
+    "screenshotCount": 0
+}

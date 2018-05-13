@@ -1,0 +1,9 @@
+Origin: Jiaping's Repo
+Label: Jiaping's Repo
+Suite: stable
+Version: 1.0
+Codename: Jiaping
+Architechtures: iphoneos-arm
+Components: main
+Description: Jiaping's test repo
+MD5Sum:

@@ -1,0 +1,12 @@
+Package: com.jiapingzeng.testpackage
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Jiaping Zeng <jiaping@gisar.me>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./pkgfiles/com.jiapingzeng.testpackage.deb
+Size: 1024
+Installed-Size: 128
+Description: Doesn't do anything
+Name: Test Package
+Author: Jiaping Zeng <jiaping@gisar.me>
